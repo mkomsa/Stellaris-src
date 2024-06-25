@@ -1,0 +1,6 @@
+@Stellaris.Server.Api_HostAddress = http://localhost:5133
+
+GET {{Stellaris.Server.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
