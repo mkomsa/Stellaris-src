@@ -43,9 +43,9 @@ Terraform was used for infrastructure management as code. The application was pr
 
 The application enables users to fetch weather data for Mars using the NASA API: InSight: Mars Weather Service API. Users can check metrics for a given Martian day (SOL) such as pressure, temperature, and wind speed. Additionally, the application provides news related to space exploration, Mars, etc. Users can also create their own posts for specific categories. The application features a global theme that changes depending on the season.
 
-**Main Screen:**
+**Main Screen:**\
 ![Main Screen](docs/img/main.png)
-**Available Themes:**
+**Available Themes:**\
 ![Summer Theme](docs/img/summer-theme.png)
 ![Spring Theme](docs/img/spring-theme.png)
 ![Winter Theme](docs/img/winter-theme.png)
@@ -55,6 +55,6 @@ Navigating to a widget displaying metrics such as pressure and temperature leads
 
 The metrics view allows users to select a specific Martian day (top right corner). The application's state is updated between widgets, so returning to the main screen will display data for the selected day.
 
-**News Tab and Adding a New Post (plus sign):**
+**News Tab and Adding a New Post (plus sign):**\
 ![News and New Post](docs/img/news.png)
 ![News and New Post](docs/img/create-news.png)
